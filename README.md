@@ -20,3 +20,5 @@ This dataset is from Kaggle and can be found [here](https://www.kaggle.com/datas
 ## Disclaimer
 
 This model is for research purposes only and should not be used to identify or classify fruits in a real-world setting.
+
+The Teachable Machine's model is too large to upload to GitHub. You can download the model [here](https://drive.google.com/drive/folders/1WynBX-zPmFGBA4et5F5MvgRZ4mgtGBOL?usp=sharing).
