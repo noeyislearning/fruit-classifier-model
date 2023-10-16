@@ -1,0 +1,7 @@
+0 Apple
+1 Grapes
+2 Strawberry
+3 Lemon
+4 Orange
+5 Mango
+6 Broccoli
